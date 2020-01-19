@@ -9,6 +9,10 @@
 //		More detailed instructions can be found at: http://www.projectetal.com/wiki/index.php/Nip_Config
 // -----------------------------------------------------------------------------------------------------
 
+[name] == superhealingpotion
+[name] == supermanapotion
+[name] == fullrejuvenationpotion
+[name] == gold # [gold] >= 5000
 
 //MAGIC CHARMS FOR CUBING
 [Name] == GrandCharm && [Quality] == Magic //&& [Level] >= 85 //DIABLO or BAAL GC
