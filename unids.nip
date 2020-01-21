@@ -53,7 +53,7 @@
 //[Name] == Casque && [Quality] == Unique 										//STEALSKULL
 //[Name] == GrandCrown && [Quality] == Unique 									//CROWN OF THEIVES
 [Name] == GrimHelm && [Quality] == Unique 										//VAMPIRE GAZE
-[Name] == Shako && [Quality] == Unique # [defense] >= 130					//HARLEQUIN CREST
+[name] == shako && [quality] == unique && [flag] != ethereal # [defense] == 135	//HARLEQUIN CREST
 [Name] == SpiredHelm && [Quality] == Unique										//NIGHTWING'S VEIL
 [Name] == Demonhead && [Quality] == Unique 										//ANDARIEL'S VISAGE
 [Name] == BoneVisage && [Quality] == Unique										//GIANT SKULL
