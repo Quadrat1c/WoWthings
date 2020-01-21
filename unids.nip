@@ -1,12 +1,11 @@
 //-----------------------------------------------------------------------------------------------------
-//		This is a list of itmes that you want your bot to pick up and keep without identifying.
-//		This list is HEAVILY cross-referenced with the Unique.nip Almost anything you want to comment out or add will have to be checked on both lists.
-//		Note that the unid'ed SET items are simply listed in Set.nip as most of them don't have variable attributes anyway.
-//
-//		Any item on THIS list which starts with //[ will NOT be picked up at all
-//		Any item on THIS list which starts with [	will be picked up and kept UNID'ED
-//		You MUST double check Unique.nip to see which unique items will be picked up and then CHECKED to see if the bot wants to keep them.
-//		More detailed instructions can be found at: http://www.projectetal.com/wiki/index.php/Nip_Config
+// Pots & Gold
+// Keep all unid Rare & Unique [Rings, Amulets, Jewels]
+// Keep all unid Small and Grand Charms level 85 and above
+// Keep Runes from Ist->Zod
+// Keep the most popular Uniques (Identify some of them that drop more often for better stats)
+// Decent list of Whites at the bottom
+// Quadrat1c
 // -----------------------------------------------------------------------------------------------------
 
 [name] == superhealingpotion
